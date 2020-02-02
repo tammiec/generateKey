@@ -1,5 +1,5 @@
 {
-  "name": "generatekey",
+  "name": "@tammiec/generatekey",
   "version": "1.0.0",
   "description": "A simple key generator",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tammiec/generateKey.git"
   },
-  "author": "@tammiec",
+  "author": "@tammiec (https://github.com/tammiec)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tammiec/generateKey/issues"
