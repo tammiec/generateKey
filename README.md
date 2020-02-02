@@ -12,6 +12,10 @@ A simple 6-digit alphanumeric key generation function for use with URLs, React k
 
 `const generateKey = require('@tammiec/generatekey');`
 
+or
+
+`import generateKey from '@@tammiec/generatekey';`
+
 **Call it:**
 
 `const randomKey = generateKey();`
