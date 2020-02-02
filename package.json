@@ -1,6 +1,6 @@
 {
   "name": "@tammiec/generatekey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple key generator",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tammiec/generateKey.git"
+    "url": "git+https://github.com/tammiec/generatekey.git"
   },
   "author": "@tammiec (https://github.com/tammiec)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tammiec/generateKey/issues"
+    "url": "https://github.com/tammiec/generatekey/issues"
   },
-  "homepage": "https://github.com/tammiec/generateKey#readme",
+  "homepage": "https://github.com/tammiec/generatekey#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.0.1"
